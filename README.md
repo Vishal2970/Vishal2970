@@ -55,4 +55,7 @@ I'm a passionate Software Developer based in India, with a focus on MERN (MongoD
 https://www.governmentjobs.com/jobs/4287031/net-full-stack-developer-primarily-remote-opportunity/apply?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
 https://www.governmentjobs.com/jobs/4287031/net-full-stack-developer-primarily-remote-opportunity/apply?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
 mailto:sowmya.g@ivytechsol.us
+
+https://www.remotasks.com/en/projects/coding-experts-32464353?utm_source=google&utm_campaignDescription=NLPCodingSearchCampaignIN&utm_targetCountry=in&utm_targetLanguage=english&utm_owner=Mod&utm_id=64497f2fdf0be9920fe11a9f&gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT8_ZikeZkMaBtRYRjBMWun9KXqsqrVEZI4yUyln1xciC_UjAyYaixUaAos5EALw_wcB
+
 mailto:hr@kntechsolutions.com -->
