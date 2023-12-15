@@ -58,4 +58,6 @@ mailto:sowmya.g@ivytechsol.us
 
 https://www.remotasks.com/en/projects/coding-experts-32464353?utm_source=google&utm_campaignDescription=NLPCodingSearchCampaignIN&utm_targetCountry=in&utm_targetLanguage=english&utm_owner=Mod&utm_id=64497f2fdf0be9920fe11a9f&gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT8_ZikeZkMaBtRYRjBMWun9KXqsqrVEZI4yUyln1xciC_UjAyYaixUaAos5EALw_wcB
 
+https://careers.stryker.com/job/19566640/web-software-engineer-m-f-d-15-months-fixed-term-contract-freiburg-de/
+
 mailto:hr@kntechsolutions.com -->
