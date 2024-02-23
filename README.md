@@ -15,7 +15,7 @@ I'm a passionate Software Developer based in India, with a focus on MERN (MongoD
 ## Projects
 ### E-Commerce Website
 
-1. **MERN E-Commerce:**
+1. **E-Commerce (MERN ):**
    - Developed a full-fledged E-Commerce website using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 2. **User Authentication:**
@@ -25,6 +25,25 @@ I'm a passionate Software Developer based in India, with a focus on MERN (MongoD
    - Enabled users to easily add items to their cart, providing a seamless shopping experience with dynamic updates and order tracking.
 ![236609041-56a19338-e2d3-43ef-af5e-e861b4c97e9c](https://github.com/Vishal2970/Vishal2970/assets/96405876/01f3ff59-c1dc-4349-bc26-c87a3f648026)
 ![236608972-78bc3e7d-68d2-4113-8b46-ce7838c99493](https://github.com/Vishal2970/Vishal2970/assets/96405876/d1c48a1b-9f58-40a2-918b-4b707cb74bc5)
+
+## Live Weather Tracking app
+
+1. **Live Weather Tracking Application:**
+   - Provides users with the ability to obtain and view the current local weather at their coordinates.
+   - Tech stack: React frontend, Express/Node.
+
+2. **Key Features:**
+   - Real Time weather of their location by default.
+   - User-friendly interface for seamless viewing.
+
+3. **Tech Stack:**
+   - Frontend: React
+   - API: Weather.com
+
+![image](https://github.com/Vishal2970/Vishal2970/assets/96405876/a70c7708-b18c-4852-8fc3-643f51cce5e2)
+
+     
+
 
 ## Web Report Portal
 
